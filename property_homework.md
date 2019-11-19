@@ -30,7 +30,7 @@ Answer - Because some of the methods which are being called affect the instance 
 ----------------
 Q8. What type of data structure is returned by calls to db.exec_prepared()? In the save method, how do we access the id from the returned data structure?
 
-Answer - An array is returned. We access the id from within the array by  ?????????????
+Answer - An array is returned. We access the id from within the array by using the key id 
 ------------------
 Q9. Why do we use prepared statements when performing database operations?
 
